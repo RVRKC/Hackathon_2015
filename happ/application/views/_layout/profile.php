@@ -25,6 +25,7 @@ $this_method = $this->router->fetch_method();
 				<?php echo lang('menu_logout'); ?> <i class="fa fa-sign-out"></i>
 			</a>
 		</li>
+		<li><a href="http://google.com" target="_blank">google</a></li>
 	</ul>
 <?php else : ?>
 	<ul class="nav nav-pills">
