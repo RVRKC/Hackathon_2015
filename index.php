@@ -1,3 +1,5 @@
 <?php
 
-echo phpinfo();
+#echo phpinfo();
+
+echo "new index file";
