@@ -1,4 +1,5 @@
 <div class="page-header">
+<img src="logo.png">
 <h2><?php echo lang('login'); ?></h2>
 </div>
 
