@@ -8,6 +8,7 @@ $this_method = $this->router->fetch_method();
 	$login_with = $this->app_conf->get('login_with');
 	?>
 	<ul class="nav nav-pills">
+		<li><img src="logo.png" ></li>
 		<li>
 			<a href="<?php echo ci_site_url('auth/profile'); ?>">
 				<i class="fa fa-user"></i> 
